@@ -1,0 +1,1 @@
+Pens of Destiny is a sample project utilising Swift Package Manager.
