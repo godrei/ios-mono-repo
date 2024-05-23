@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/bitrise-io/bitrise-json-schemas/advanced-trigger-map/bitrise.schema.json": [
+            "/bitrise.yml"
+        ],
+        "https://json.schemastore.org/bitrise.json": "file:///Users/godrei/Development/ios/EnvVar/bitrise.yml"
+    }
+}
